@@ -1,0 +1,32 @@
+{
+  "name": "what-does-the-animal-say",
+  "version": "0.0.1",
+  "description": "An Alexa skill to answer the question: \"What does the X say?\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "debug": "DEBUG=* ./node_modules/.bin/alexa-skill-test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zzolo/what-does-the-animal-say.git"
+  },
+  "keywords": [
+    "Alexa",
+    "animal",
+    "sounds"
+  ],
+  "author": "Alan Palazzolo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zzolo/what-does-the-animal-say/issues"
+  },
+  "homepage": "https://github.com/zzolo/what-does-the-animal-say#readme",
+  "dependencies": {
+    "alexa-sdk": "^1.0.8",
+    "dotenv": "^4.0.0"
+  },
+  "devDependencies": {
+    "node-lambda": "^0.8.15"
+  }
+}

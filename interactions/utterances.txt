@@ -1,0 +1,9 @@
+AnimalIntent what does the {Animal} say
+AnimalIntent what does a {Animal} say
+AnimalIntent what does an {Animal} say
+AnimalIntent what does the {Animal} sound like
+AnimalIntent what does a {Animal} sound like
+AnimalIntent what does an {Animal} sound like
+AnimalIntent what sound does the {Animal} make
+AnimalIntent what sound does a {Animal} make
+AnimalIntent what sound does an {Animal} make
