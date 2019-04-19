@@ -27,6 +27,8 @@
     "dotenv": "^4.0.0"
   },
   "devDependencies": {
+    "cheerio": "^0.22.0",
+    "node-fetch": "^1.6.3",
     "node-lambda": "^0.8.15"
   }
 }
